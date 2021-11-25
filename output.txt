@@ -1,0 +1,76 @@
+[Artist18890, Кино]
+
+[Artist2670, American Football], 
+[Artist791, Aphex Twin], 
+[Artist36664, Arcade Fire]
+
+[Artist160, Björk], 
+[Artist1328078, black midi]
+
+[Artist686312, C418], 
+[Artist888739, Carpenter Brut], 
+[Artist43278, Chromatics], 
+[Artist850, Circulatory System]
+
+[Artist247, David Bowie], 
+[Artist693744, Death Grips], 
+[Artist3868, Duster]
+
+[Artist27979, Fishmans]
+
+[Artist1555327, inabakumori]
+
+[Artist542683, Kendrick Lamar], 
+[Artist996464, Kero Kero Bonito], 
+[Artist1054363, Kikuo], 
+[Artist3943, Killswitch Engage], 
+[Artist1856, Kylie Minogue]
+
+[Artist337329, Lamp]
+
+[Artist248460, Mariya Takeuchi], 
+[Artist89582, MGMT], 
+[Artist47796, Mount Eerie], 
+[Artist125, My Bloody Valentine], 
+[Artist8034, My Chemical Romance]
+
+[Artist222, Neutral Milk Hotel], 
+[Artist37, Nirvana]
+
+[Artist1266494, Origami Angel]
+
+[Artist237667, Perfume], 
+[Artist312, Pink Floyd], 
+[Artist816, Portishead]
+
+[Artist42, Radiohead], 
+[Artist300, Rage Against the Machine], 
+[Artist605, Rammstein], 
+[Artist457, Red Hot Chili Peppers], 
+[Artist2919, Ryuichi Sakamoto]
+
+[Artist386073, Sakanaction], 
+[Artist832629, Seiko Oomori], 
+[Artist17605, Sheena Ringo], 
+[Artist456287, Shojoskip], 
+[Artist672, Sigur Ros], 
+[Artist49, Smashing Pumpkins], 
+[Artist321, Sonic Youth], 
+[Artist824, Sparklehorse], 
+[Artist168905, St. Vincent], 
+[Artist647, System of a Down]
+
+[Artist369450, Tame Impala], 
+[Artist8, The Beatles], 
+[Artist13488, The Black Keys], 
+[Artist26, The Doors], 
+[Artist808, The Microphones], 
+[Artist223, The Olivia Tremor Control], 
+[Artist50, The Smiths], 
+[Artist755, The Strokes], 
+[Artist57, The Velvet Underground], 
+[Artist830, The White Stripes]
+
+[Artist4935, Unwound]
+
+[Artist280772, Wye Oak]

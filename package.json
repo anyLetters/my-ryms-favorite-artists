@@ -1,0 +1,10 @@
+{
+  "name": "favorite-artists-rym",
+  "version": "1.0.0",
+  "main": "script.js",
+  "license": "MIT",
+  "scripts": {
+    "a": "node ./script.js add",
+    "r": "node ./script.js remove"
+  }
+}
